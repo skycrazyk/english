@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "604c8d39ee8d9ee2",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf2149f93969c9ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "674e86764acdcce4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pronounce/Negative pronounce.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "237f9a3d5120866e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb3c21863d60a9af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb4c29d43eea673a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5920034c0157be7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c3e513370dc961b7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b291e585e085d3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "519f09083eb2fed5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f369db8d3b4ef9c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pronounce/Negative pronounce.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8124a533d8c40cb3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pronounce/Negative pronounce.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e87c1b376dda78ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "446ce0c59431c360",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pronounce/Negative pronounce.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "674e86764acdcce4",
+  "lastOpenFiles": []
+}
