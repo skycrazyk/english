@@ -13,10 +13,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pronounce/Negative pronounce.md",
+                "file": "Object/Вопросы к дополнению.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "c95ad38d9bdfa79f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subject/Вопросы к подлежащему.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60404253761737d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subject/Вопросы к подлежащему.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da29a7a62e3f31cf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pronounce/Negative pronounce.md",
+                "file": "Object/Вопросы к дополнению.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pronounce/Negative pronounce.md",
+                "file": "Object/Вопросы к дополнению.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pronounce/Negative pronounce.md"
+                "file": "Object/Вопросы к дополнению.md"
               }
             }
           }
@@ -137,5 +169,14 @@
     "collapsed": true
   },
   "active": "674e86764acdcce4",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Subject/Вопросы к подлежащему.md",
+    "Pronounce/Negative pronounce.md",
+    "Object/Вопросы к дополнению.md",
+    "2023-01-29.md",
+    "Object/<Вопросы.md",
+    "Object/<\"Вопросы.md",
+    "Object/\"Вопросы.md",
+    "link.md"
+  ]
 }
