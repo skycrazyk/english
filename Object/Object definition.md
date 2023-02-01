@@ -1,4 +1,4 @@
-Object (дополнение) может быть выраженно [местоимением](</Pronounce/Pronounce definition>), существительным с зависимыми словами, герунидий с зависимыми словами
+Object (дополнение) может быть выраженно [местоимением](</Pronounce/Pronounce definition>), существительным с зависимыми словами, герундий с зависимыми словами
 
 ## Types of objects
 
@@ -12,7 +12,7 @@ Object (дополнение) может быть выраженно [место
 
 ## Косвенные
 
-- He sed me a letter. "a letter" - прямое, "me" - косвенное.
+- He send me a letter. "a letter" - прямое, "me" - косвенное.
 - I gave my dog some food. "some food" - прямое, "my dog" - косвенное. -> I gave some food to my dog.
 - Could you tell me your name? "your name" - прямое, "me" - косвенное.
 - They offered us a discount. "a discount" - прямое, "us" - косвенное.

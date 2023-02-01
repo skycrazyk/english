@@ -1,0 +1,12 @@
+Subject (подлежащее) может быть выражено:
+- Pronounce (местоимение). *I* learn English. "I" - подлежащее
+- Noun (существительное). 
+	- *Spring* is beautiful. "Spring" - подлежащее
+	- *This spring* is beautiful. "This spring" - подлежащее
+- Gerund (герундий). *Making fun of people* is his favourite hobby. "Making fun of people" - подлежащее.
+- Infinitive (инфинив). *To give up* is easier than to move forvard. "To give up" - подлежащее.
+- Цитата. "I want to learn English" is often heard these days. "I want to learn English" -  подлежащее.
+- Формальные подлежащие (не переводятся).
+	- *It* is raining. Идет дождь. "It" - подлежащее. 
+	- *There* are a lot of people. Много людей. "There" - подлежащее
+- Подлежащее должно опускаться в повелительных предложениях. Close the door!

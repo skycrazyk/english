@@ -1,7 +1,9 @@
-## Verb types
+## Verb types по отношению к дополнению
 
 - [Transitive](<#Transitive verbs>)
 - [Intransitive](<#Intransitive verbs>)
+- связующие
+- пассивные
 
 ## Transitive verbs
 
