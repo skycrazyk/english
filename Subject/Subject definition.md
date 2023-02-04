@@ -1,12 +1,38 @@
-Subject (подлежащее) может быть выражено:
-- Pronounce (местоимение). *I* learn English. "I" - подлежащее
-- Noun (существительное). 
-	- *Spring* is beautiful. "Spring" - подлежащее
-	- *This spring* is beautiful. "This spring" - подлежащее
-- Gerund (герундий). *Making fun of people* is his favourite hobby. "Making fun of people" - подлежащее.
-- Infinitive (инфинив). *To give up* is easier than to move forvard. "To give up" - подлежащее.
-- Цитата. "I want to learn English" is often heard these days. "I want to learn English" -  подлежащее.
-- Формальные подлежащие (не переводятся).
+Subject (подлежащее) отвечает на вопросы *кто?* или *что?* обозначает действующее лицо предложения.
+Subject может быть выражено:
+- Pronounce (местоимение):
+	- *I* learn English. "I" - подлежащее.
+	- *Somebody* lost his wallet. "Somebody" - подлежащее.
+	- _She_ hates being late.
+	- _You_ [should](</Verb/Modal verbs>) learn grammar rules.
+- Noun (существительное):
+	- *Spring* is beautiful. "Spring" - подлежащее.
+	- *This spring* is beautiful. "This spring" - подлежащее.
+	- *My sister* is playing golf.
+	- *April* is my favourite month.
+	- _Jack_ [should](</Verb/Modal verbs>) drive the car more carefully.
+	- _The sky_ is blue.
+- [[Gerund]] (герундий) самостоятельно или с зависимыми словами:
+	- *Making fun of people* is his favourite hobby. "Making fun of people" - подлежащее.
+	- *Watching TV* is a waste of time. "Watching TV" - подлежащее.
+	- *Swimming* is good for your heart.
+	- _Taking care_ of my children is my primary responsibility.
+	- _Facing the truth_ can be difficult.
+- [[Infinitive]] (инфинив):
+	- *To give up* is easier than to move forvard. "To give up" - подлежащее.
+	- *To give up* means to lose. "To give up" - подлежащее.
+	- _To break up_ with her is not an option.
+- Цитата.
+	- "I want to learn English" is often heard these days. "I want to learn English" -  подлежащее.
+	- «I don’t know» is not an answer.
+	- "I want more!" was repeated again and again.
+- Формальные подлежащие (не переводятся):
 	- *It* is raining. Идет дождь. "It" - подлежащее. 
-	- *There* are a lot of people. Много людей. "There" - подлежащее
-- Подлежащее должно опускаться в повелительных предложениях. Close the door!
+	- *There* are a lot of people. Много людей. "There" - подлежащее.
+	- _It_ is dark outside. На улице темно. "It" - подлежащее.
+- Придаточным предложением:
+	- _Where you park your car_ should not bother anybody. "Where you park your car" - подлежащее.
+	- _How this thing worked_ did not bother me.
+- Подлежащее должно опускаться в повелительных предложениях. 
+	- Close the door!
+	- Open the window, please.
