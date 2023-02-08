@@ -1,11 +1,11 @@
 ## Sentence by meaning
 
-### Positive
+### Affirmative sentence
 
 Утверждение:
 - I swim.
 
-### Negative
+### Negative sentence
 
 Отрицание:
 - I don't talk to him.
@@ -18,7 +18,9 @@
 - Have they invited Tom?
 - Can you do a cartwheel?
 
-### Imperative sentences (повелительные)
+### Imperative sentences
+
+Повелительные предложения:
 
 - Wash the dishes!
 - Listen!
@@ -29,7 +31,9 @@
 - Don't be selfish.
 - Don't be late for the meeting!
 
-## Sentences by type of connection (по типу связи)
+## Sentences by type of connection
+
+Предложения по типу связи:
 
 ### Simple sentences
 

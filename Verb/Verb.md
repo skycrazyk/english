@@ -45,6 +45,8 @@ Infinitive это базовая форма глагола. То как он з�
 	- I'd like to learn to play the trumpet.
 - like
 	- I think I'd like to leave now.
+- suppose
+	- I am supposed to go to the library today, aren't I?
 
 Узнать нужно ли ставить частицу "to" после глагола можно в словаре. 
 
@@ -52,14 +54,12 @@ Infinitive это базовая форма глагола. То как он з�
 
 - [Transitive](<#Transitive verbs>)
 - [Intransitive](<#Intransitive verbs>)
-- связующие
-- пассивные
+- связующие???
+- пассивные???
 
 ## Transitive verbs
 
 Transitive (Переходный) - требуется дополнение (object). Offer, tell, send, bring, lend, make, buy, find, write, get
-
-### Examples of transitive verbs
 
 - I love English
 - He gave me a pen
@@ -67,7 +67,5 @@ Transitive (Переходный) - требуется дополнение (obj
 ## Intransitive verbs
 
 Intransitive (Не переходный) - дополнение не требуется. Snow, rain, laugh, happen, work
-
-### Examples of intransitive verbs
 
 - The baby is crying
